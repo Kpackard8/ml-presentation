@@ -8,6 +8,10 @@ Presentation by Kelsey Packard
 
 ---
 
+![dorothy](dorothy.png)
+
+---
+
 ## Types of machine learning 👇
 
 - [Supervised](#supervised-machine-learning)
