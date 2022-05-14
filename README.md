@@ -1,13 +1,14 @@
 # Machine Learning
 
 Presentation by Kelsey Packard
+
 👩🏻‍💻🌟🌟🌟👨🏾‍💻
 
 [Link to Slides](https://hackmd.io/@KBYYQ_gmRrurFk8RrLO_rQ/rJigkqSUq#/)
 
 ---
 
-## Types of machine learning
+## Types of machine learning 👇
 
 - [Supervised](#supervised-machine-learning)
 - [Unsupervised](#unsupervised-machine-learning)
